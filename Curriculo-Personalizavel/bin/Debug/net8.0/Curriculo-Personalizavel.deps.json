@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Curriculo-Personalizavel/1.0.0": {
+        "runtime": {
+          "Curriculo-Personalizavel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curriculo-Personalizavel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
